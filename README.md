@@ -1,2 +1,2 @@
-# coursera-capstone
-Python Coursera - Capstone
+# p4e-coursera-capstone
+Python for Everyone, Coursera - Capstone
